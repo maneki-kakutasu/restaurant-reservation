@@ -217,7 +217,7 @@
             <div id="bookingForm" class="modal" style="display: none;">
                 <div class="modal-content">
                     <?php if (!isLoggedIn()): ?>
-                        <div style="font-size:1.15rem; color:#222; text-align:center; padding:2.5rem 1rem;">
+                        <div style="font-size:1.15rem; color:#222; text-align:start; padding:2.5rem 1rem;">
                             Для бронирования необходимо <a href="login.php" style="color:#5a32c2;text-decoration:underline;">войти в систему</a>.
                         </div>
                     <?php else: ?>
