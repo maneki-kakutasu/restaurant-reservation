@@ -1,0 +1,31 @@
+/* Стили для footer (подвала сайта) */
+.site-footer {
+    width: 100%;
+    background: #23272f;
+    color: #fff;
+    padding: 32px 0 16px 0;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 48px;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.04);
+}
+
+.site-footer a {
+    color: #ffb347;
+    text-decoration: underline;
+    margin: 0 8px;
+}
+
+.site-footer a:hover {
+    color: #fff;
+}
+
+/* Footer styles */
+.modern-footer {
+    background: #fff;
+    padding: 1.5rem 0;
+    text-align: center;
+    color: #888;
+    font-size: 1rem;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.04);
+} 
